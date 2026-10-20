@@ -36,7 +36,7 @@
                   "dex": {
                     "type": "string",
                     "minLength": 1,
-                    "description": "Name of the builder-deployed perp DEX. The empty string is not allowed.",
+                    "description": "Name of the builder-deployed perp DEX (e.g., \"xyz\", \"para\"). The empty string is not allowed.",
                     "default": "xyz"
                   }
                 },

@@ -35,7 +35,7 @@
                   },
                   "coin": {
                     "type": "string",
-                    "description": "HIP-3 asset symbol in deployer:TICKER format (e.g., \"xyz:GOLD\"). Native perps like \"BTC\" always return null.",
+                    "description": "HIP-3 asset symbol in deployer:TICKER format (e.g., \"xyz:GOLD\", \"para:AVGO\"). Native perps like \"BTC\" always return null.",
                     "default": "xyz:GOLD"
                   }
                 },

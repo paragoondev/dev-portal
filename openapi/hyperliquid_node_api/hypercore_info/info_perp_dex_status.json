@@ -35,7 +35,7 @@
                   },
                   "dex": {
                     "type": "string",
-                    "description": "Perp DEX name",
+                    "description": "Perp DEX name (e.g., \"xyz\", \"para\")",
                     "default": "xyz"
                   }
                 },
